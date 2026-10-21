@@ -1,0 +1,8 @@
+.venv/
+.DS_Store
+__pycache__/
+data/cache/
+reports/
+.ipynb_checkpoints/
+idx_metrics_*
+

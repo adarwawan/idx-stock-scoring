@@ -1,0 +1,6 @@
+numpy>=2.0
+pandas>=2.2
+requests>=2.32
+yfinance>=0.2.63
+jupyterlab>=4.0
+plotly>=5.24
